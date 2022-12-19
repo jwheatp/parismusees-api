@@ -1,4 +1,4 @@
-{
+export default {
   "swagger": "2.0",
   "info": {
     "description": "An intermediary REST API for apicollections.parismusees.paris.fr.<br>This API is intended to be simpler to use and to be limited to a list of artists and paintings.<br><br>In order to use this API, you will need a token from the ParisMusées API (more information here : https://www.parismuseescollections.paris.fr/fr/se-connecter-a-l-api).<br>Then, you can pass this token in the <code>auth-token</code> header.",
