@@ -5,7 +5,7 @@ export default {
     "version": "0.1.0",
     "title": "ParisMusees"
   },
-  "host": "localhost:3000",
+  "host": "parismusees-api.onrender.com",
   "basePath": "/v1",
   "tags": [
     {
